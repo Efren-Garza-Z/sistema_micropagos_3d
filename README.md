@@ -2,6 +2,8 @@
 
 Este proyecto es un Smart Contract (Programa) desarrollado con el framework Anchor que permite gestionar un inventario de activos 3D (archivos `.glb`) sobre la blockchain de Solana (Devnet).
 
+<img width="390" height="390" alt="image" src="https://github.com/Efren-Garza-Z/sistema_micropagos_3d/blob/main/imgs/pollito.png" style="display: block; margin-left: auto; margin-right: auto;" />   
+
 ## 🎯 Objetivo del Proyecto
 
 El fin de este CRUD es proporcionar una infraestructura descentralizada para que creadores de contenido 3D puedan registrar sus modelos, asignarles un precio en Lamports y gestionar su disponibilidad. A diferencia de un CRUD tradicional, los datos no residen en un servidor central, sino en Cuentas (PDAs) únicas dentro de la red Solana, asegurando transparencia y propiedad real.
