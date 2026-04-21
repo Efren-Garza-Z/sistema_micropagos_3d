@@ -30,7 +30,7 @@ Lectura de los metadatos directamente desde la cuenta del programa.
 ### 3. Actualización de Precio (UPDATE)
 Solo el autor original tiene permisos para modificar el costo del activo.
 
-> <img width="821" height="290" alt="image" src="https://github.com/Efren-Garza-Z/sistema_micropagos_3d/blob/main/imgs/update.png" />
+> <img width="821" height="400" alt="image" src="https://github.com/Efren-Garza-Z/sistema_micropagos_3d/blob/main/imgs/update.png" />
 
 ### 4. Eliminación y Recuperación de Renta (DELETE)
 Cierra la cuenta en la blockchain y devuelve los SOL depositados por el espacio (Rent) a la wallet del autor.
