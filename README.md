@@ -2,7 +2,11 @@
 
 Este proyecto es un Smart Contract (Programa) desarrollado con el framework Anchor que permite gestionar un inventario de activos 3D (archivos `.glb`) sobre la blockchain de Solana (Devnet).
 
-<img width="390" height="390" alt="image" src="https://github.com/Efren-Garza-Z/sistema_micropagos_3d/blob/main/imgs/pollito.png" style="display: block; margin-left: auto; margin-right: auto;" />   
+
+
+<div align="center">
+  <img width="390" height="390" alt="image" src="https://github.com/Efren-Garza-Z/sistema_micropagos_3d/blob/main/imgs/pollito.png" />
+</div> 
 
 ## 🎯 Objetivo del Proyecto
 
